@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "769254802844",
+    "project_id": "campus-recrutment",
+    "storage_bucket": "campus-recrutment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769254802844:android:de5218f293721f1ee8f459",
+        "android_client_info": {
+          "package_name": "com.example.campus_recruitment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG9xUMdLQm6dh4TKgcF4yeaqd4DQ1Su-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769254802844:android:b610f6945be0622ee8f459",
+        "android_client_info": {
+          "package_name": "com.example.campus_recruitment_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG9xUMdLQm6dh4TKgcF4yeaqd4DQ1Su-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
